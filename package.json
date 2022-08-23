@@ -2,7 +2,7 @@
   "name": "group-12-js-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://KateSkoryna.github.io/group-12-js-project",
+  "homepage": "https://github.com/Gaydashleo/group-12-js-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /group-12-js-project/"
